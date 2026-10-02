@@ -1,0 +1,6 @@
+{
+  "name": "Creator Studio AI",
+  "description": "Create. Edit. Generate. Publish. All-in-one AI content-creator studio for YouTube creators with video maker, AI photo generator, scripts, lyrics, audio TTS, editor, analytics, and YouTube manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
